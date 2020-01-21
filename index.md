@@ -63,7 +63,7 @@ Some interesting findings:
 ---
 ## Math Modelling
 
-[**Projected growth of Neurendocrine cells using Matlab**[(https://github.com/Emmyphung/Neurendocrine-cells)
+[**Projected growth of Neurendocrine cells using Matlab**](https://github.com/Emmyphung/Neurendocrine-cells)
 
 [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Emmyphung/Neurendocrine-cells/blob/master/Project%20Write-up_My%20Phung.pdf)
 
