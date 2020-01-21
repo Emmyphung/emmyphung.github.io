@@ -46,7 +46,7 @@ Some interesting findings:
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
 <br>
 <img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png"/>
-<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png"/>
+<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math3.png"/>
 <br>
 
 ---
