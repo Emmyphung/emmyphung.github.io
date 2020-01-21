@@ -15,7 +15,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 
 **Models**: Decision Tree, Random Forest, and Logistic Regression. </div>
 <br>
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png" width="600" height="450"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png" width="650" height="450"/></center>
 <br>
 
 ---
@@ -46,8 +46,7 @@ Some interesting findings:
 
 <div style="text-align: justify"> Using reports of 911 calls in the US, this project gives insights about regions having the most incidents, frequencies of calls, reasons of calls, and prediction of number of calls in the coming years.</div>
 <br>
-<center><img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png"/><img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png"/></center>
-</p>
+![](img src="https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png") ![](img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png")
 <br>
 ---
 
