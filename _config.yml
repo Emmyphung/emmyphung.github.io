@@ -1,6 +1,6 @@
 title: <p align="center"> Emmy Phung </p>
 
-logo: "/images/picture.png?raw=true"
+logo: "https://github.com/Emmyphung/portfolio/blob/master/images/ava.png"
 
 description:
   <p align="center">
@@ -11,8 +11,7 @@ description:
   
   <p align="justify">
   I am pursing MS degree in Data Science at New York University, Center for Data Science.
-  <br><br>
-  [...]
+  My goal is to attain mastery over data science to translate consumer insights into data-intensive business solutions.
   <br><br>
   </p>
   
