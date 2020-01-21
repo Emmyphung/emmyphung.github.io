@@ -39,7 +39,6 @@ Some interesting findings:
 <br>
 
 ---
-
 ## Natural Language Processing
 ---
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
@@ -48,13 +47,11 @@ Some interesting findings:
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
 <br>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="400" height="200"/>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="300" height="200"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="500" height="250"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="250"/>
 <br/>
 
 ---
-
-
 [**Kaggle Competition: Google QUEST Q&A Labelling**](https://chriskhanhtran.github.io/projects/ames-house-price.html)
 
 [![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://drive.google.com/file/d/1hiDfVsVQ3QgMWhEJ46JU7HjntgVCsjmj/view?usp=sharing)
@@ -67,7 +64,6 @@ Some interesting findings:
 <br/>
 
 ---
-
 ## Math Modelling
 ---
 [**Projected growth of Neurendocrine cells using Matlab**[(https://github.com/Emmyphung/Neurendocrine-cells)
