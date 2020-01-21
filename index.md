@@ -14,9 +14,7 @@ Differently from the traditional approaches to this dataset, our methodology def
 Finally, I created recommender system that restaurant owners can use to study their top competitors. Given the name of the restaurant and the cuisine, the system will output top 10 competitors of that restaurant based on their similarities in attributes.
 
 **Models**: Decision Tree, Random Forest, and Logistic Regression. </div>
-<br>
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png" width="590" height="350"/></center>
-<br>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/yelp_project.png" width="700" height="400"/></center>
 
 ---
 [**Effects of US Presidential Elections on the stock market: a close look into the Tech sector**](https://github.com/Emmyphung/FAANG_stockprices)
@@ -49,6 +47,7 @@ Some interesting findings:
 <br>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="500" height="250"/>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="250"/>
+<br/>
 <br/>
 
 ---
