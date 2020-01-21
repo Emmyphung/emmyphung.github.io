@@ -32,7 +32,7 @@ Facebook and Netflix stocks have the highest prices throughout both election per
 Several tech stocks rocketed after Trump's elecion in 2017.
 The second notebook gives a 2-year projected growth of Facebook's stocks.</div>
 <br>
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/breast-cancer.png"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/FB_stock.png"/></center>
 <br>
 
 ---
