@@ -76,12 +76,13 @@ Some interesting findings:
 
 [![Check out my page](https://img.shields.io/badge/Facebook-View_My_Pages-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
 
-<div style="text-align: justify"> text here.
+<div style="text-align: justify">
 Data Science in Brief is an international organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young Data Science enthusiasts – learners – practitioners with leading experts in the field for learning and career opportunities
 
 • Reached 11,000 readers within the 1st month (organically)
-• Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)(links)
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/DSinbrief.png"/></center>
+
+• Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/DSinbrief_event.png"/></center>
  
 ---
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
