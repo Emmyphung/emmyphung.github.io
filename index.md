@@ -37,8 +37,8 @@ Some interesting findings:
 <br>
 <center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/FB_stock.png"/></center>
 <br>
----
 
+---
 ## Natural Language Processing
 ---
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
@@ -46,21 +46,22 @@ Some interesting findings:
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="400" height="260"/>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="260"/>
+<br>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="500" height="250"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="250"/>
 <br/>
 
 ---
-  
-[**Kaggle Competition: Google QUEST Q&A Labelling**](https://chriskhanhtran.github.io/projects/ames-house-price.html)
+
+[**Kaggle Competition: Google QUEST Q&A Labelling**](https://github.com/JasonZhangzy1757/Kaggle_Google_QUEST_QA_Labeling)
 
 [![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://drive.google.com/file/d/1hiDfVsVQ3QgMWhEJ46JU7HjntgVCsjmj/view?usp=sharing)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JasonZhangzy1757/Kaggle_Google_QUEST_QA_Labeling/blob/master/190103_StratifiedKFold_Emmy.ipynb)
 
 <div style="text-align: justify"> Google Q&A Labelling is a classification problem. Given pairs of questions and answers, we are asked to classify the question types, answer types, level of helpfulness of the answers, etc. For this project, I conducted comprehensive EDA to understand the datasets and important variables, used Multilabel Stratified KFolds to solve class imbalance issue, and used BERT pretuned models to solve the classification problems.</div>
 <br>
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/ames-house-price.jpg"/></center>
-<br>
+<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA.png"/>
+<br/>
 
 ---
 ## Math Modelling
