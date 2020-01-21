@@ -11,9 +11,11 @@
 
 Differently from the traditional approaches to this dataset, our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile. Final results indicate that determinants of success vary by cuisine type.
 
-Finally, I created recommender system that restaurant owners can use to study their top competitors. Given the name of the restaurant and the cuisine, the system will output top 10 competitors of that restaurant based on their similarities in attributes.</div>
+Finally, I created recommender system that restaurant owners can use to study their top competitors. Given the name of the restaurant and the cuisine, the system will output top 10 competitors of that restaurant based on their similarities in attributes.
+
+**Models**: Decision Tree, Random Forest, and Logistic Regression. </div>
 <br>
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/credit-risk-webapp.png"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png"/></center>
 <br>
 
 ---
@@ -29,7 +31,9 @@ Some interesting findings:
 2. Facebook and Google stocks were the most volatile in 2018, which was also the year when Facebook had its infamous scandal with Cambridge Analytica.
 3. Facebook and Netflix stocks have the highest prices throughout both election periods.
 4. Several tech stocks rocketed after Trump's elecion in 2017.
-5. Facebook stock price is always increasing. The second notebook shows a 2-year projected growth of Facebook's stocks.</div>
+5. Facebook stock price is almost always increasing. The second notebook shows a 2-year projected growth of Facebook's stocks.
+
+**Models**: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.</div>
 <br>
 <center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/FB_stock.png"/></center>
 <br>
@@ -42,9 +46,15 @@ Some interesting findings:
 
 <div style="text-align: justify"> Using reports of 911 calls in the US, this project gives insights about regions having the most incidents, frequencies of calls, reasons of calls, and prediction of number of calls in the coming years.</div>
 <br>
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/bac2018.JPG"/></center>
+<div class="row">
+  <div class="column">
+    <img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png"/>
+  </div>
+  <div class="column">
+    <img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png"/>
+  </div>
+</div>
 <br>
-
 ---
 
 ## Natural Language Processing
