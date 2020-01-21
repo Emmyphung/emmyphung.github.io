@@ -46,9 +46,10 @@ Some interesting findings:
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
+<br>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="400" height="260"/>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="260"/>
-<br/>
+<br>
 
 ---
   
@@ -59,7 +60,8 @@ Some interesting findings:
 
 <div style="text-align: justify"> Google Q&A Labelling is a classification problem. Given pairs of questions and answers, we are asked to classify the question types, answer types, level of helpfulness of the answers, etc. For this project, I conducted comprehensive EDA to understand the datasets and important variables, used Multilabel Stratified KFolds to solve class imbalance issue, and used BERT pretuned models to solve the classification problems.</div>
 <br>
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/ames-house-price.jpg"/></center>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA_red.png" width="400" height="260"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA.png" width="400" height="260"/>
 <br>
 
 ---
