@@ -48,7 +48,7 @@ Some interesting findings:
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
 <br>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="400" height="260"/>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="260"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="260"/></right>
 <br>
 
 ---
@@ -60,8 +60,8 @@ Some interesting findings:
 
 <div style="text-align: justify"> Google Q&A Labelling is a classification problem. Given pairs of questions and answers, we are asked to classify the question types, answer types, level of helpfulness of the answers, etc. For this project, I conducted comprehensive EDA to understand the datasets and important variables, used Multilabel Stratified KFolds to solve class imbalance issue, and used BERT pretuned models to solve the classification problems.</div>
 <br>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA_red.png" width="400" height="260"/>
-<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA.png" width="400" height="260"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA._red.png" width="400" height="200"/>
+<img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA.png" width="400" height="260"/></right>
 <br>
 
 ---
