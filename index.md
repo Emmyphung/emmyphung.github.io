@@ -15,7 +15,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 
 **Models**: Decision Tree, Random Forest, and Logistic Regression. </div>
 <br>
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png" width="650" height="450"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png" width="750" height="450"/></center>
 <br>
 
 ---
@@ -36,18 +36,6 @@ Some interesting findings:
 **Models**: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.</div>
 <br>
 <center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/FB_stock.png"/></center>
-<br>
-
----
-
-[**Crime prediction using 911 call reports**](https://chriskhanhtran.github.io/pdf/bac2018.pdf)
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://chriskhanhtran.github.io/pdf/bac2018.pdf)
-
-<div style="text-align: justify"> Using reports of 911 calls in the US, this project gives insights about regions having the most incidents, frequencies of calls, reasons of calls, and prediction of number of calls in the coming years.</div>
-<br>
-<left><img src="https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png"/><left>
-<right><img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png"/><right>
 <br>
 ---
 
