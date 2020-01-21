@@ -90,4 +90,4 @@ The second notebook gives a 2-year projected growth of Facebook's stocks.</div>
 - [text](links)
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
