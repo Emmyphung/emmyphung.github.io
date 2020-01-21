@@ -81,6 +81,7 @@ Data Science in Brief is an international organization, a learning community tha
 
 • Reached 11,000 readers within the 1st month (organically)
 • Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)(links)
- </div>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/DSinbrief.png"/></center>
+ 
 ---
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
