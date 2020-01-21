@@ -46,7 +46,8 @@ Some interesting findings:
 
 <div style="text-align: justify"> Using reports of 911 calls in the US, this project gives insights about regions having the most incidents, frequencies of calls, reasons of calls, and prediction of number of calls in the coming years.</div>
 <br>
-![](img src="https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png") ![](img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png")
+<left><img src="https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png"/><left>
+<right><img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png"/><right>
 <br>
 ---
 
