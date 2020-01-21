@@ -19,7 +19,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 ---
 [**Effects of US Presidential Elections on the stock market: a close look into the Tech sector**](https://github.com/Emmyphung/FAANG_stockprices)
 
-[![Time series analysis](https://img.shields.io/badge/Jupyter-Time_series_analysis-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/Loaddata_EDA.ipynb)
+[![Time series analysis](https://img.shields.io/badge/Jupyter-Stock_analysis_with_interative_chart-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/EDA_StockAnalysis.html)
 [![Stock prediction](https://img.shields.io/badge/Jupyter-Stock_prediction-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/Times%20series%20analysis_bymonths_%20FAANG.ipynb)
 
 <div style="text-align: justify"> This project analyzes stock prices of big tech companies, Facebook - Apple - Amazon - Netflix - Google (FAANG) and sees how they progressed throughout the two recent presidential election (2012 - Barack Obama and 2017 - Donald Trump).
@@ -38,18 +38,18 @@ Some interesting findings:
 
 ---
 ## Natural Language Processing
----
+
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
 <br>
-<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math.png"/>
+<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png"/>
+<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png"/>
 <br>
 
 ---
-
 [**Kaggle Competition: Google QUEST Q&A Labelling**](https://github.com/JasonZhangzy1757/Kaggle_Google_QUEST_QA_Labeling)
 
 [![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://drive.google.com/file/d/1hiDfVsVQ3QgMWhEJ46JU7HjntgVCsjmj/view?usp=sharing)
@@ -62,15 +62,16 @@ Some interesting findings:
 
 ---
 ## Math Modelling
----
+
 [**Projected growth of Neurendocrine cells using Matlab**[(https://github.com/Emmyphung/Neurendocrine-cells)
 
 [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Emmyphung/Neurendocrine-cells/blob/master/Project%20Write-up_My%20Phung.pdf)
 
 <div style="text-align: justify">The project aims at tracking the three phase transformation of neuroendocrine cells specific to the human colon, which is illustrated in the figure below. A stem cell transforms into a progenitor cell and finally a mature cell through symmetric and asymmetric cell division. Symmetric cell division, also known as self-renewal, occurs when a stem cell divides symmetrically into two identical stem cells. Asymmetric cell division characterizes the maturation process when a stem cell divides into a stem cell and a progenitor cell, or a progenitor cell divides into a progenitor cell and a mature cell. In each phase, cells also experience apoptosis. meaning cell death. With an aim to capture this phenomenon, I want to build a model that track the number of cells in each phase, stem cells, progenitor cells and mature cells.</div>
 
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/BERT-classification.png"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Neucell.png"/></center>
 
+---
 ## Data Science in Brief (Facebook Page & Group)
 
 [![Check out my page](https://img.shields.io/badge/Facebook-View_My_Pages-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
