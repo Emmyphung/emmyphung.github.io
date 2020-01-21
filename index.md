@@ -47,8 +47,8 @@ Some interesting findings:
 <br>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="500" height="250"/>
 <img align="left" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math2.png" width="400" height="250"/>
-<br/>
-<br/>
+<br>
+<br>
 
 ---
 
