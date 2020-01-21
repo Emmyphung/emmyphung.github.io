@@ -46,9 +46,8 @@ Some interesting findings:
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
-![](https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png) ![alt-text-2](https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png)
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png"/></center>
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png" width="450" height="300"/></center>
+<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math.png" width="600" height="300"/></center>
 ---
 [**Kaggle Competition: Google QUEST Q&A Labelling**](https://chriskhanhtran.github.io/projects/ames-house-price.html)
 
