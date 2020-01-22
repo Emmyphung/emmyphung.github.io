@@ -29,4 +29,17 @@ Some interesting findings: 1) Overall, stocks within the FAANG companies are clo
 Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
 <center><img src="images/FB_stock.png"/></center> 
 ---
+  [**Effects of US Presidential Elections on the stock market: a close look into the Tech sector**](https://github.com/Emmyphung/FAANG_stockprices)
+
+[![Time series analysis](https://img.shields.io/badge/Jupyter-Stock_analysis_with_interative_charts-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/EDA_StockAnalysis.html)
+[![Stock prediction](https://img.shields.io/badge/Jupyter-Stock_prediction-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/Times%20series%20analysis_bymonths_%20FAANG.ipynb)
+
+<div> This project analyzes stock prices of big tech companies, Facebook - Apple - Amazon - Netflix - Google (FAANG) and sees how they progressed throughout the two recent presidential election (2012 - Barack Obama and 2017 - Donald Trump).
+<br>
+Some interesting findings: 1) Overall, stocks within the FAANG companies are closely correlated; 2) Facebook and Google stocks were the most volatile in 2018, the year when Facebook had its infamous scandal with Cambridge Analytica; 3) Several tech stocks rocketed after Trump's elecion in 2017.<br>
+<br>
+Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
+<center><img src="images/FB_stock.png"/></center> 
+  
+  
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
