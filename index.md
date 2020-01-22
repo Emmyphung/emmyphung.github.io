@@ -26,7 +26,7 @@ Models: Decision Tree, Random Forest, and Logistic Regression.
 <br>
 Some interesting findings: 1) Overall, stocks within the FAANG companies are closely correlated; 2) Facebook and Google stocks were the most volatile in 2018, the year when Facebook had its infamous scandal with Cambridge Analytica; 3) Several tech stocks rocketed after Trump's elecion in 2017.<br>
 <br>
-Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
+Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.</div>
 <center><img src="images/FB_stock.png"/></center> 
   
 ---
