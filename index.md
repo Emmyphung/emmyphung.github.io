@@ -45,8 +45,8 @@ Some interesting findings:
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
 <br>
-<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis.png"/>
-<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Sentiment_analysis_math3.png"/>
+<img align="center" src="images/Sentiment_analysis.png"/>
+<img align="center" src="images/Sentiment_analysis_math3.png"/>
 <br>
 
 ---
@@ -57,7 +57,7 @@ Some interesting findings:
 
 <div style="text-align: justify"> Google Q&A Labelling is a classification problem. Given pairs of questions and answers, we are asked to classify the question types, answer types, level of helpfulness of the answers, etc. For this project, I conducted comprehensive EDA to understand the datasets and important variables, used Multilabel Stratified KFolds to solve class imbalance issue, and used BERT pretuned models to solve the classification problems.</div>
 <br>
-<img align="center" src="https://github.com/Emmyphung/portfolio/blob/master/images/Google_Quest_QA.png"/>
+<img align="center" src="images/Google_Quest_QA.png"/>
 <br/>
 
 ---
@@ -69,7 +69,7 @@ Some interesting findings:
 
 <div style="text-align: justify">The project aims at tracking the three phase transformation of neuroendocrine cells specific to the human colon, which is illustrated in the figure below. A stem cell transforms into a progenitor cell and finally a mature cell through symmetric and asymmetric cell division. Symmetric cell division, also known as self-renewal, occurs when a stem cell divides symmetrically into two identical stem cells. Asymmetric cell division characterizes the maturation process when a stem cell divides into a stem cell and a progenitor cell, or a progenitor cell divides into a progenitor cell and a mature cell. In each phase, cells also experience apoptosis. meaning cell death. With an aim to capture this phenomenon, I want to build a model that track the number of cells in each phase, stem cells, progenitor cells and mature cells.</div>
 
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Neucell.png"/></center>
+<center><img src="images/Neucell.png"/></center>
 
 ---
 ## Data Science in Brief (Facebook Page & Group)
@@ -81,7 +81,7 @@ Data Science in Brief is an international organization, a learning community tha
 <br>
 • Reached 11,000 readers within the 1st month (organically) <br>
 • Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/DSinbrief_event.png"/></center>
+<center><img src="images/DSinbrief_event.png"/></center>
  
 ---
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
