@@ -66,7 +66,9 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 <center><img src="images/Neucell.png"/></center>
 
 ---
-## Data Science in Brief (Facebook Page & Group)
+## Community Projects
+
+**Data Science in Brief (Facebook Page & Group)**
 
 [![Check out my page](https://img.shields.io/badge/Facebook-View_My_Pages-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
 
