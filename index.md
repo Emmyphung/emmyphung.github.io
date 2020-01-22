@@ -79,8 +79,6 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 </div>
 <center><img src="images/DSinbrief_event.png"/></center>
  
-alo
-
 ---
 
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
