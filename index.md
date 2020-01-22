@@ -30,8 +30,6 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 <center><img src="images/FB_stock.png"/></center> 
   
 ---
-## Natural Language Processing
-
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
@@ -40,5 +38,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 <center><img src="images/Sentiment_analysis.png"/></center> 
 <center><img src="images/Sentiment_analysis_math3.png"/></center> 
 <br>
-  
+
+---
+
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
