@@ -15,6 +15,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 <br>
 
 **Models:** Decision Tree, Random Forest, and Logistic Regression.
+<div/>
 <center><img src="images/yelp_project.png"/></center>
 
 ---
@@ -23,8 +24,9 @@ Finally, I created recommender system that restaurant owners can use to study th
 [![Time series analysis](https://img.shields.io/badge/Jupyter-Stock_analysis_with_interative_chart-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/EDA_StockAnalysis.html)
 [![Stock prediction](https://img.shields.io/badge/Jupyter-Stock_prediction-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/Times%20series%20analysis_bymonths_%20FAANG.ipynb)
 
-This project analyzes stock prices of big tech companies, Facebook - Apple - Amazon - Netflix - Google (FAANG) and sees how they progressed throughout the two recent presidential election (2012 - Barack Obama and 2017 - Donald Trump).
+<div> This project analyzes stock prices of big tech companies, Facebook - Apple - Amazon - Netflix - Google (FAANG) and sees how they progressed throughout the two recent presidential election (2012 - Barack Obama and 2017 - Donald Trump).
 <br>
+ 
 **Some interesting findings:** <br>
 1. Overall, stocks within the FAANG companies are closely correlated. Facebook stocks and Google stocks are the most correlated. <br>
 2. Facebook and Google stocks were the most volatile in 2018, which was also the year when Facebook had its infamous scandal with Cambridge Analytica.<br>
@@ -34,6 +36,7 @@ This project analyzes stock prices of big tech companies, Facebook - Apple - Ama
 <br>
  
 **Models:** Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
+<div/>
 <br>
 <center><img src="images/FB_stock.png"/></center>
 <br>
