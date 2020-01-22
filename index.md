@@ -40,6 +40,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 <center><img src="images/FB_stock.png"/></center>
 
 ---
+
 ## Natural Language Processing
 
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
@@ -53,6 +54,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 <br>
 
 ---
+
 [**Kaggle Competition: Google QUEST Q&A Labelling**](https://github.com/JasonZhangzy1757/Kaggle_Google_QUEST_QA_Labeling)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1hiDfVsVQ3QgMWhEJ46JU7HjntgVCsjmj/view?usp=sharing)
