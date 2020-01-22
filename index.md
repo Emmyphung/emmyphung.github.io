@@ -14,7 +14,7 @@ Differently from the traditional approaches to this dataset, our methodology def
 Finally, I created recommender system that restaurant owners can use to study their top competitors. Given the name of the restaurant and the cuisine, the system will output top 10 competitors of that restaurant based on their similarities in attributes. 
 <br>
 
-**Models:** Decision Tree, Random Forest, and Logistic Regression.
+Models: Decision Tree, Random Forest, and Logistic Regression.
 </div>
 <center><img src="images/yelp_project.png"/></center>
 
@@ -27,7 +27,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 <div> This project analyzes stock prices of big tech companies, Facebook - Apple - Amazon - Netflix - Google (FAANG) and sees how they progressed throughout the two recent presidential election (2012 - Barack Obama and 2017 - Donald Trump).
 <br>
  
-**Some interesting findings:** <br>
+Some interesting findings:<br>
 1. Overall, stocks within the FAANG companies are closely correlated. Facebook stocks and Google stocks are the most correlated. <br>
 2. Facebook and Google stocks were the most volatile in 2018, which was also the year when Facebook had its infamous scandal with Cambridge Analytica.<br>
 3. Facebook and Netflix stocks have the highest prices throughout both election periods.<br>
@@ -35,7 +35,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 5. Facebook stock price is almost always increasing. The second notebook shows a 2-year projected growth of Facebook's stocks.
 <br>
  
-**Models:** Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
+Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
 <div/>
 <br>
 <center><img src="images/FB_stock.png"/></center>
