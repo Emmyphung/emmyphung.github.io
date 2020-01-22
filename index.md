@@ -7,7 +7,7 @@
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/models_vegas_final.ipynb)
 [![Recommender System](https://img.shields.io/badge/Jupyter-Recommender_System-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/vegas_recommender_system.ipynb)
 
-<div> The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. 
+The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. 
 <br>
 Differently from the traditional approaches to this dataset, our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile. Final results indicate that determinants of success vary by cuisine type.
 <br>
@@ -15,7 +15,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 <br>
 
 **Models:** Decision Tree, Random Forest, and Logistic Regression.
-<div/>
+
 <center><img src="images/yelp_project.png"/></center>
 
 ---
@@ -39,7 +39,6 @@ Finally, I created recommender system that restaurant owners can use to study th
 <div/>
 <br>
 <center><img src="images/FB_stock.png"/></center>
-<br>
 
 ---
 ## Natural Language Processing
