@@ -40,6 +40,7 @@ Finally, I created recommender system that restaurant owners can use to study th
 <br>
 <center><img src="images/FB_stock.png"/></center>
 <br>
+
 ---
 ## Natural Language Processing
 
