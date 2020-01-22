@@ -11,7 +11,6 @@
 <br>
 Our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile.
 <br>
- 
 **Models:** Decision Tree, Random Forest, and Logistic Regression.
 
 </div>
@@ -27,7 +26,8 @@ Our methodology defines “success” as a binary variable through an explorator
 <br>
 Some interesting findings: 1) Overall, stocks within the FAANG companies are closely correlated; 2) Facebook and Google stocks were the most volatile in 2018, the year when Facebook had its infamous scandal with Cambridge Analytica; 3) Several tech stocks rocketed after Trump's elecion in 2017.<br>
 <br>
-Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
+ 
+**Models:** Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
 <center><img src="images/FB_stock.png"/></center>
 
 ---
@@ -70,7 +70,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 
 [![Check out my page](https://img.shields.io/badge/Facebook-View_My_Pages-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
 
-<div style="text-align: justify"> Data Science in Brief is an international organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young Data Science enthusiasts – learners – practitioners with leading experts in the field for learning and career opportunities
+<div style="text-align: justify"> Data Science in Brief is an organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young Data Science enthusiasts – learners – practitioners with leading experts in the field for learning and career opportunities
 <br>
 • Reached 11,000 readers within the 1st month (organically)<br>
 • Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)</div>
