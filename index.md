@@ -35,11 +35,9 @@ Some interesting findings:<br>
 5. Facebook stock price is almost always increasing. The second notebook shows a 2-year projected growth of Facebook's stocks.
 <br>
  
-Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
-<div/>
+Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
 <br>
 <center><img src="images/FB_stock.png"/></center>
-<br>
 
 ---
 ## Natural Language Processing
