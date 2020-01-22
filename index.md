@@ -40,7 +40,6 @@ Some interesting findings:
 ## Natural Language Processing
 
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
-
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
 <div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
