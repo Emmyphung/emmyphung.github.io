@@ -70,7 +70,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 
 [**Data Science in Brief (@DSinbrief Facebook Page & Group)**](https://www.facebook.com/DSinbrief/)
 
-[![Check out my page](https://img.shields.io/badge/Facebook-View_My_Pages-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
+[![Check out my page](https://img.shields.io/badge/Facebook-View_My_Page-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
 
 <div style="text-align: justify"> Data Science in Brief (@DSinbrief) is an organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young Data Science enthusiasts – learners – practitioners with leading experts in the field for learning and career opportunities
 <br>
@@ -79,6 +79,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 </div>
 <center><img src="images/DSinbrief_event.png"/></center>
  
+alo
 
 ---
 
