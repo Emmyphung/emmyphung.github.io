@@ -27,54 +27,6 @@ Models: Decision Tree, Random Forest, and Logistic Regression.
 Some interesting findings: 1) Overall, stocks within the FAANG companies are closely correlated; 2) Facebook and Google stocks were the most volatile in 2018, the year when Facebook had its infamous scandal with Cambridge Analytica; 3) Several tech stocks rocketed after Trump's elecion in 2017.<br>
 <br>
 Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.<div/>
-<center><img src="images/FB_stock.png"/></center>
- 
----
-
-## Natural Language Processing
-
-[**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
-
-[![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
-
-<div style="text-align: justify">This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.</div>
-<br>
-<img align="center" src="images/Sentiment_analysis.png"/>
-<img align="center" src="images/Sentiment_analysis_math3.png"/>
-<br>
-
----
-[**Kaggle Competition: Google QUEST Q&A Labelling**](https://github.com/JasonZhangzy1757/Kaggle_Google_QUEST_QA_Labeling)
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1hiDfVsVQ3QgMWhEJ46JU7HjntgVCsjmj/view?usp=sharing)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JasonZhangzy1757/Kaggle_Google_QUEST_QA_Labeling/blob/master/190103_StratifiedKFold_Emmy.ipynb)
-
-<div style="text-align: justify"> Google Q&A Labelling is a classification problem. Given pairs of questions and answers, we are asked to classify the question types, answer types, level of helpfulness of the answers, etc. For this project, I conducted comprehensive EDA to understand the datasets and important variables, used Multilabel Stratified KFolds to solve class imbalance issue, and used BERT pretuned models to solve the classification problems.</div>
-<br>
-<center><img src="images/Google_Quest_QA.png"/></center>
-<br>
-
----
-## Math Modelling
-
-[**Projected growth of Neurendocrine cells using Matlab**](https://github.com/Emmyphung/Neurendocrine-cells)
-
-[![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Emmyphung/Neurendocrine-cells/blob/master/Project%20Write-up_My%20Phung.pdf)
-
-<div style="text-align: justify">The project aims at tracking the three phase transformation of neuroendocrine cells specific to the human colon. A stem cell transforms into a progenitor cell and finally a mature cell through symmetric and asymmetric cell division. Symmetric cell division, also known as self-renewal, occurs when a stem cell divides symmetrically into two identical stem cells. Asymmetric cell division characterizes the maturation process when a stem cell divides into a stem cell and a progenitor cell, or a progenitor cell divides into a progenitor cell and a mature cell. In each phase, cells also experience apoptosis. meaning cell death. With an aim to capture this phenomenon, I want to build a model that track the number of cells in each phase, stem cells, progenitor cells and mature cells.</div>
-
-<center><img src="images/Neucell.png"/></center>
-
----
-## Data Science in Brief (Facebook Page & Group)
-
-[![Check out my page](https://img.shields.io/badge/Facebook-View_My_Pages-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
-
-<div style="text-align: justify"> Data Science in Brief is an organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young Data Science enthusiasts – learners – practitioners with leading experts in the field for learning and career opportunities
-<br>
-• Reached 11,000 readers within the 1st month (organically)<br>
-• Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)</div>
-<center><img src="images/DSinbrief_event.png"/></center>
- 
+<center><img src="images/FB_stock.png"/></center> 
 ---
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
