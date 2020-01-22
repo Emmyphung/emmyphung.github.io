@@ -11,6 +11,7 @@
 <br>
 Our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile.
 <br>
+ 
 **Models:** Decision Tree, Random Forest, and Logistic Regression.
 
 </div>
