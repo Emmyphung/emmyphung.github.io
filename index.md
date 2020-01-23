@@ -45,6 +45,7 @@ Models: Linear Regression, Lin-Log and Double-Log models. | Results: Final R_squ
 </div>
 <center><img src="images/Car_model_corrplot.png"/></center> 
 
+---
 ## Natural Language Processing
 
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
