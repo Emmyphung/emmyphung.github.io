@@ -40,7 +40,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 For feature engineering, I conducted Pearson’s correlation test to detect and reduce multi-collinearity problem; used year-fixed effects to avoid serial correlation. 
 <br>
 <br>
-Models: Linear Regression, Lin-Log and Double-Log models. <br>
+Models: Linear Regression, Lin-Log and Double-Log models.<br>
 Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
 </div>
