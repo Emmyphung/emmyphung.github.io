@@ -42,7 +42,6 @@ For feature engineering, I conducted Pearson’s correlation test to detect and 
 <br>
 Models: Linear Regression, Lin-Log and Double-Log models. | Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
-
 </div>
 <center><img src="images/Car_model_corrplot.png"/></center> 
 
