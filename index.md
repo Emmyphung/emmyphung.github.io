@@ -37,8 +37,8 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 [![Models](https://img.shields.io/badge/Jupyter-Stock_prediction-blue?logo=Jupyter)](https://github.com/Emmyphung/car_models/blob/master/car_modelling.ipynb)
 
 <div> This research project examined the quality vs. fuel-efficiency trade-offs between low-end and high-end car models. I first consolidated a cross-sectional dataset of 10,000+ observations (2005–2014) and 22 variables from 3 sources. I then developed a Double-Log Regression model to estimate the average miles-per-gallon of an automobile model based on its design features and real market price. 
-For feature engineering, I conducted Pearson’s correlation test to detect and reduce multi-collinearity problem; used year-fixed effects to avoid serial correlation. 
-<br>
+For feature engineering, I conducted Pearson’s correlation test to detect and reduce multi-collinearity problem; used year-fixed effects to avoid serial correlation. <br>
+
 Results: Final R_squared: 0.7984 | Final MSE: 0.0024 <br>
 <br>
 Models: Linear Regression, Lin-Log and Double-Log models.
