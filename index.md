@@ -38,7 +38,8 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 
 <div> This research project examined the quality vs. fuel-efficiency trade-offs between low-end and high-end car models. I first consolidated a cross-sectional dataset of 10,000+ observations (2005–2014) and 22 variables from 3 sources. I then developed a Double-Log Regression model to estimate the average miles-per-gallon of an automobile model based on its design features and real market price. 
 For feature engineering, I conducted Pearson’s correlation test to detect and reduce multi-collinearity problem; used year-fixed effects to avoid serial correlation. 
-Summary of findings:
+<br>
+Summary of findings: <br>
 1. Results: Final R_squared: 0.7984 | Final MSE: 0.0024 <br>
 2. The signs of the coefficients allign with our research: 1) The bigger the weight is, the less energy efficient the car would be.
 2) All else equal, having the label 'Lux' could imply that the car is more energy efficient than average. THis means that luxury cars are produced to overperform non-luxury ones.
