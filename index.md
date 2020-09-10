@@ -6,7 +6,7 @@ I love working in teams, tackling new data challenges as well as seeking origina
 
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 
-<center><img src="images/yelp_project.png"/></center>
+<center><img src="images/animation.mp4"/></center>
 ---
 ## Data Science
 
