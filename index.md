@@ -4,7 +4,7 @@ I am Emmy Phung, a Machine Learning Engineer currently pursuing an **MS in Data 
 
 I love working in teams, tackling new data challenges as well as seeking original approaches to existing problems. I have just finished my **Data Science & Optimization internship** with **ATIM (Advanced Technologies for Investment Management) at Fidelity Investments**, in which I proposed a deep learning approach to a conventional time series modelling problem and enabled the team to first time ever simulate market volatitlity over a long time horizon (10 years+) using a Long Short-Term Memory (LSTM) model with auto-encoder deployed on AWS Sagemaker. I also helped the team eliminate the manual data-cleansing process in Excel and enhance data quality by automating the imputation process using multiple chained equations (MICE framework) in Python.
 
-![Gif](images/trial.gif){:height="50%" width="50%"}
+<center><img src="images/trial.gif" width="400" height="790"/></center>
 
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 ---
