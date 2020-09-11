@@ -1,5 +1,4 @@
 <center><img src="images/banner5.gif" width="100%" height="120%"/></center>
-
 <br>
 
 I am Emmy Phung, a Machine Learning Engineer currently pursuing an **MS in Data Science at NYU**. I have research and industry experience in machine learning, deep learning, natural language processing (NLP), probabilistic time series and recommender system. 
