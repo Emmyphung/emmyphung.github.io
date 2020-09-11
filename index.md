@@ -1,4 +1,4 @@
-<center><img src="images/banner.gif" width="100%" height="120%"/></center>
+<center><img src="images/banner2.gif" width="100%" height="120%"/></center>
 
 <br>
 
