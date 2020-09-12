@@ -7,7 +7,8 @@ I love working in teams, tackling new data challenges as well as seeking origina
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 
 ---
-## Data Science
+
+## Portfolio
 
 [**Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?**](https://github.com/Emmyphung/Vegas_foodies)
 
@@ -54,7 +55,6 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <center><img src="images/Car_model_corrplot.png"/></center> 
 
 ---
-## Natural Language Processing
 
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
@@ -78,7 +78,6 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
 
 ---
-## Math Modelling
 
 [**Projected growth of Neurendocrine cells using Matlab**](https://github.com/Emmyphung/Neurendocrine-cells)
 
