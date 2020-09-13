@@ -6,10 +6,8 @@ I love working in teams, tackling new data challenges as well as seeking origina
 
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 
-<p float="left">
-  [<img src="images/portfolio.gif" width="200"/>](https://github.com/Emmyphung/emmyphung.github.io/blob/master/sections/portfolio.md)
+[<img src="images/portfolio.gif" width="200"/>](https://github.com/Emmyphung/emmyphung.github.io/blob/master/sections/portfolio.md)
 
-</p>
 ---
 
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
