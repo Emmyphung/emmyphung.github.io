@@ -10,5 +10,6 @@ Graduating soon, I aspire to turn ideas into actionable solutions and unlock new
 [<img src="images/portfolio.gif" width="200"/>](sections/portfolio.md) 
 [<img src="images/leadership.gif" width="200"/>](sections/dsinbrief.md)
 
+
 ---
 <center>© 2020 My (Emmy) Phung. Powered by Jekyll and the Minimal Theme.</center>
