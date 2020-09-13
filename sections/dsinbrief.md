@@ -1,7 +1,7 @@
 ## Community Projects
 
 ---
-**Data Science in Brief** (@DSinbrief Facebook Page & Group)
+**Data Science in Brief (@DSinbrief Facebook Page & Group)**
 
 Data Science in Brief [(@DSinbrief)](https://www.facebook.com/DSinbrief/), is an organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young **Data Science enthusiasts – learners – practitioners** with leading experts in the field for learning and career opportunities.
 
