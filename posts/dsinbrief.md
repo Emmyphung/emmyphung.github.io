@@ -9,4 +9,4 @@
 • Reached 11,000 readers within the 1st month (organically)<br>
 • Organized Data Science in Brief: Hands-on Experience & Career Navigation (VN, 2019), a full-day conference that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.)
 </div>
-<center><img src="images/DSinbrief_event.png"/></center>
+<center><img src="/images/DSinbrief_event.png"/></center>
