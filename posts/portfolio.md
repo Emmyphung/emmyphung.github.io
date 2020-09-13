@@ -26,7 +26,7 @@ Some interesting findings: 1) Overall, stocks within the FAANG companies are clo
 <br>
 Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
 </div>
-<center><img src="images/FB_stock.png"/></center> 
+<center><img src="/images/FB_stock.png"/></center> 
   
 ---
 [**Product Differentiation in the Automobiles Market: An Empirical Analysis**](https://github.com/Emmyphung/car_models/blob/master/README.md)
@@ -42,7 +42,7 @@ Models: Linear Regression, Lin-Log and Double-Log models.<br>
 Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
 </div>
-<center><img src="images/Car_model_corrplot.png"/></center> 
+<center><img src="/images/Car_model_corrplot.png"/></center> 
 
 ---
 
@@ -51,8 +51,8 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 
 <div> This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.
 </div>
-<center><img src="images/Sentiment_analysis.png"/></center> 
-<center><img src="images/Sentiment_analysis_math3.png"/></center> 
+<center><img src="/images/Sentiment_analysis.png"/></center> 
+<center><img src="/images/Sentiment_analysis_math3.png"/></center> 
 <br>
 
 ---
@@ -64,7 +64,7 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <div style="text-align: justify"> Google Q&A Labelling is a classification problem. Given pairs of questions and answers, we are asked to classify the question types, answer types, level of helpfulness of the answers, etc. For this project, I conducted comprehensive EDA to understand the datasets and important variables, used Multilabel Stratified KFolds to solve class imbalance issue, and used BERT pretuned models to solve the classification problems.
 </div>
 <br>
-<center><img src="images/Google_Quest_QA.png"/></center>
+<center><img src="/images/Google_Quest_QA.png"/></center>
 <br>
 
 ---
@@ -75,4 +75,4 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 
 <div style="text-align: justify">The project aims at tracking the three phase transformation of neuroendocrine cells specific to the human colon. A stem cell transforms into a progenitor cell and finally a mature cell through symmetric and asymmetric cell division. Symmetric cell division, also known as self-renewal, occurs when a stem cell divides symmetrically into two identical stem cells. Asymmetric cell division characterizes the maturation process when a stem cell divides into a stem cell and a progenitor cell, or a progenitor cell divides into a progenitor cell and a mature cell. In each phase, cells also experience apoptosis. meaning cell death. With an aim to capture this phenomenon, I want to build a model that track the number of cells in each phase, stem cells, progenitor cells and mature cells.
 </div>
-<center><img src="images/Neucell.png"/></center>
+<center><img src="/images/Neucell.png"/></center>
