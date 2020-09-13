@@ -2,6 +2,7 @@
 ## Portfolio
 
 [**Predicting Psychiatric Readmission Rate Based on Clinical Notes**](https://github.com/Emmyphung/psychiatric-readmission-prediction)
+
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/psychiatric-readmission-prediction/tree/master/model-training)
 
 <div> Rapid psychiatric readmissions present a burden for both the patients as well as the hospitals. Due to the difficulties in assessing mental health status and complications inherent to mental illnesses, premature discharges as well as rapid decay of mental status after discharge is an issue many psychiatric facilities faces. We aim to create a **BERT-based model that can assist clinicians in identifying patients as risk of psychiatric readmission **upon discharge as well as extract abstract relationships from discharge summaries. Furthermore, as an attempt to understand the level of representation learning achieved by BERT, we visualized the attention (or connection) between two word tokens within BERT embeddings and were surprised to see that these connections actually make sense.
@@ -9,7 +10,9 @@
 Models: LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes.
 <div>
 <center><img src="/images/bert.png"/></center>
+  
 ---
+  
 [**Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?**](https://github.com/Emmyphung/Vegas_foodies)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/models_vegas_final.ipynb)
