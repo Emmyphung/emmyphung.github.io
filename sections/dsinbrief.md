@@ -4,7 +4,7 @@
 
 [**Data Science in Brief (@DSinbrief Facebook Page & Group)**](https://img.shields.io/badge/Facebook-View_My_Page-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)
 
-Data Science in Brief [(@DSinbrief)](https://img.shields.io/badge/Facebook-View_My_Page-blue?logo=facebook)](https://www.facebook.com/DSinbrief/) is an organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young **Data Science enthusiasts – learners – practitioners** with leading experts in the field for learning and career opportunities.
+**Data Science in Brief** ([@DSinbrief](https://img.shields.io/badge/Facebook-View_My_Page-blue?logo=facebook)](https://www.facebook.com/DSinbrief/)) is an organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young **Data Science enthusiasts – learners – practitioners** with leading experts in the field for learning and career opportunities.
 
 <br>
 • Reached 11,000 readers within the 1st month (organically) <br>
