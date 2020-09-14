@@ -10,4 +10,5 @@ Graduating soon, I aspire to turn ideas into actionable solutions and unlock new
 [<img src="images/portfolio2.gif" height="200" />](sections/portfolio.md) 
 [<img src="images/leadership2.gif" height="200" />](sections/dsinbrief.md)
 
+
 ---
