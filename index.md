@@ -7,8 +7,8 @@ I love working in teams, tackling new data challenges as well as seeking origina
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 
 
-[<img src="images/portfolio.gif" width="200"/>](sections/portfolio.md) 
-[<img src="images/leadership.gif" width="200"/>](sections/dsinbrief.md)
+[<img src="images/portfolio2.gif" width="200"/>](sections/portfolio.md) 
+[<img src="images/leadership2.gif" width="200"/>](sections/dsinbrief.md)
 
 
 ---
