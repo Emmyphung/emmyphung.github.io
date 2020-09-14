@@ -1,12 +1,20 @@
 
 ## Portfolio
 
+---
+
 [**Predicting Psychiatric Readmission Rate Based on Clinical Notes**](https://github.com/Emmyphung/psychiatric-readmission-prediction)
+
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/psychiatric-readmission-prediction/tree/master/model-training)
 
-Rapid psychiatric readmissions present a burden for both the patients as well as the hospitals. Due to the difficulties in assessing mental health status and complications inherent to mental illnesses, premature discharges as well as rapid decay of mental status after discharge is an issue many psychiatric facilities faces. We aim to create a BERT-based model that can assist clinicians in identifying patients as risk of psychiatric readmission upon discharge as well as extract abstract relationships from discharge summaries.
-
+<div> Rapid psychiatric readmissions present a burden for both the patients as well as the hospitals. Due to the difficulties in assessing mental health status and complications inherent to mental illnesses, premature discharges as well as rapid decay of mental status after discharge is an issue many psychiatric facilities faces. We aim to create a **BERT-based model that can assist clinicians in identifying patients as risk of psychiatric readmission **upon discharge as well as extract abstract relationships from discharge summaries. Furthermore, as an attempt to understand the level of representation learning achieved by BERT, we visualized the attention (or connection) between two word tokens within BERT embeddings and were surprised to see that these connections actually make sense.
+<br>
+Models: LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes.
+</div>
+<center><img src="/images/bert.png"/></center>
+  
 ---
+  
 [**Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?**](https://github.com/Emmyphung/Vegas_foodies)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/models_vegas_final.ipynb)
@@ -20,6 +28,7 @@ Models: Decision Tree, Random Forest, and Logistic Regression.
 
 </div>
 <center><img src="/images/yelp_project.png"/></center> 
+
 ---
 [**Effects of US Presidential Elections on the stock market: a close look into the Tech sector**](https://github.com/Emmyphung/FAANG_stockprices)
 
@@ -53,6 +62,7 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 ---
 
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
+
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
 <div> This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.
@@ -75,10 +85,11 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 
 ---
 
-[**Projected growth of Neurendocrine cells using Matlab**](https://github.com/Emmyphung/Neurendocrine-cells)
+[**Projected growth of Neurendocrine cells using Matlab**](https://github.com/Emmyphung/Neurendocrine-cells) <br>
 
 [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Emmyphung/Neurendocrine-cells/blob/master/Project%20Write-up_My%20Phung.pdf)
 
 <div style="text-align: justify">The project aims at tracking the three phase transformation of neuroendocrine cells specific to the human colon. A stem cell transforms into a progenitor cell and finally a mature cell through symmetric and asymmetric cell division. Symmetric cell division, also known as self-renewal, occurs when a stem cell divides symmetrically into two identical stem cells. Asymmetric cell division characterizes the maturation process when a stem cell divides into a stem cell and a progenitor cell, or a progenitor cell divides into a progenitor cell and a mature cell. In each phase, cells also experience apoptosis. meaning cell death. With an aim to capture this phenomenon, I want to build a model that track the number of cells in each phase, stem cells, progenitor cells and mature cells.
 </div>
 <center><img src="/images/Neucell.png"/></center>
+
