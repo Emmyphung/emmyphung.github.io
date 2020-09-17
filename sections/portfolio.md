@@ -9,18 +9,18 @@
 
 <div> Rapid psychiatric readmissions present a burden for both the patients as well as the hospitals. Due to the difficulties in assessing mental health status and complications inherent to mental illnesses, premature discharges as well as rapid decay of mental status after discharge is an issue many psychiatric facilities faces. We aim to create a <b>BERT-based model that can assist clinicians in identifying patients as risk of psychiatric readmission </b> upon discharge as well as extract abstract relationships from discharge summaries. Furthermore, as an attempt to understand the level of representation learning achieved by BERT, we visualized the attention (or connection) between two word tokens within BERT embeddings and were surprised to see that these connections actually make sense.
 <br>
-Models: LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes.
+<br>
+Models: <b>LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes.</b>
 </div>
 <center><img src="/images/bertproject.gif"/></center>
   
 ---
-  
 [**Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?**](https://github.com/Emmyphung/Vegas_foodies)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/models_vegas_final.ipynb)
 [![Recommender System](https://img.shields.io/badge/Jupyter-Recommender_System-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/vegas_recommender_system.ipynb)
 
-<div> The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. 
+<div> The goals of this data mining project is to <b>1/ redefine success on Yelp</b> and <b>2/ identify key attributes that are associated with a successful Yelp profile using feature importance</b>. Our findings can help restaurants improve their Yelp profile to become more appealing to users.
 <br>
 Our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile.
 <br>
