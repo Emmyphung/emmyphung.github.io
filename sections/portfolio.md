@@ -2,7 +2,6 @@
 ## Portfolio
 
 ---
-
 [**Predicting Psychiatric Readmission Rate Based on Clinical Notes**](https://github.com/Emmyphung/psychiatric-readmission-prediction)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/psychiatric-readmission-prediction/tree/master/model-training)
