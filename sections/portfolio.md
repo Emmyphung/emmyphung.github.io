@@ -24,7 +24,7 @@ Models: <b>LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discha
 <br>
 Our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile.
 <br>
-Models: Decision Tree, Random Forest, and Logistic Regression.
+Models: <b>Decision Tree, Random Forest, and Logistic Regression<b/>.
 
 </div>
 <center><img src="/images/yelp_project.png"/></center> 
@@ -39,7 +39,7 @@ Models: Decision Tree, Random Forest, and Logistic Regression.
 <br>
 Some interesting findings: 1) Overall, stocks within the FAANG companies are closely correlated; 2) Facebook and Google stocks were the most volatile in 2018, the year when Facebook had its infamous scandal with Cambridge Analytica; 3) Several tech stocks rocketed after Trump's elecion in 2017.<br>
 <br>
-Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
+Models: <b>Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model<b/>.
 </div>
 <center><img src="/images/FB_stock.png"/></center> 
   
@@ -53,7 +53,7 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 For feature engineering, I conducted Pearson’s correlation test to detect and reduce multi-collinearity problem; used year-fixed effects to avoid serial correlation. 
 <br>
 <br>
-Models: Linear Regression, Lin-Log and Double-Log models.<br>
+Models: <b>Linear Regression, Lin-Log and Double-Log models<b/>.<br>
 Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
 </div>
@@ -65,7 +65,7 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
-<div> This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.
+<div> This notebook will compare the performance of two NLP techniques, <b>Count Vectorizor and TF-IDF Vectorizer<b/>, and two classification models,  <b>Logistic Regression and Bernoulli Naive Bayes in sentiment analysis</b>. I'll give detailed explanation on which model performs better and why.
 </div>
 <center><img src="/images/Sentiment_analysis.png"/></center> 
 <center><img src="/images/Sentiment_analysis_math3.png"/></center> 
