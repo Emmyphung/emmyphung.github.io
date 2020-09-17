@@ -28,6 +28,7 @@ Our methodology defines “success” as a binary variable through an explorator
 Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 
 </div>
+<br>
 <center><img src="/images/yelp_project.gif"/></center> 
 
 ---
