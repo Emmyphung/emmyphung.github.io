@@ -39,5 +39,3 @@ As a **community**, we help DS enthusiasts navigate through their career choices
 
 [<img align="center" src="/images/portfolio_center.gif"/>](https://emmyphung.github.io/sections/portfolio.html)
 
-
-
