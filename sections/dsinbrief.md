@@ -11,7 +11,7 @@ Data Science in Brief [(@DSinbrief)](https://www.facebook.com/DSinbrief/), is a 
 • Hosted **Data Science in Brief 2020: Beyond Textbooks**, a series of 4 online technical workshops and career panels (in 2 days) covering Machine Learning algorithms, self-study tips, career advancement advice, etc. Welcomed 10 guest speakers from Apple, Microsoft, Google, Etsy, Salesforce, etc. and successfully attracted 615 live viewers across 4 online workshops. <br>
 • Hosted **Data Science in Brief 2019: Hands-on Experience & Career Navigation**, a full-day conference in Vietnam that welcomed 146 attendees and 10 guest speakers from giant tech companies (Google, Hitachi, FPT Worldwide) and top universities (Johns Hopkins, NYU, etc.). 
 
-<center><img src="/images/milestone.png"/></center> <br>
+<center><img src="/images/milestone.png" height="100"/></center> <br>
 
 **Founder's Story** <br>
 <center><img src="/images/quote.png"/></center> <br>
