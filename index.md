@@ -5,6 +5,7 @@ I am Emmy Phung, a Machine Learning Engineer currently pursuing an **MS in Data 
 I love working in teams, tackling new data challenges as well as seeking original approaches to existing problems. I have just finished my **Data Science & Optimization internship** with **ATIM** (Advanced Technologies for Investment Management) at **Fidelity Investments**, in which I proposed a deep learning approach to a conventional time series modelling problem and enabled the team to first time ever simulate market volatitlity over a long time horizon (10 years+) using a Long Short-Term Memory (LSTM) model with auto-encoder deployed on AWS Sagemaker. I also helped the team eliminate the manual data-cleansing process in Excel and enhance data quality by automating the imputation process using multiple chained equations (MICE framework) in Python.
 
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
+
 Check out my portfolio by clicking on the red button below! <br>
 
 [<img align="center" src="images/portfolio2.gif" height="100" />](sections/portfolio.md)
@@ -12,7 +13,11 @@ Check out my portfolio by clicking on the red button below! <br>
 
 <center><img src="images/leader.gif"/></center>
 
-I also have a passion for knowledge sharing and community building. With a hope to share my learning journey in Data Science with others and support the VN DS community, I have founded and am managing **Data Science in Brief**, a science page and an online community that connects DS enthusiasts, learners and practitioners. DSinbrief is initiating an effort in connecting and strengthening the DS community in VN, which has remained a challenge to current institutes, training agencies and even big companies. Within a year, I've grown a team of 20 young data scientists as well as hosted 2 data science conference that welcame 146 attendees (full-day event), 615 live viewers (4 online workshops across 2 days), and nearly 20 guest speakers from major tech companies like Apple, Microsoft, Google, Airbnb, Salesforce, Etsy, VinBrain, etc.
+I also have a passion for knowledge sharing and community building. With a hope to share my learning journey in Data Science with others and support the VN DS community, I have founded and am managing **Data Science in Brief**, a science page and an online community that connects DS enthusiasts, learners and practitioners. DSinbrief is initiating an effort in connecting and strengthening the DS community in VN, which has remained a challenge to current institutes, training agencies and even big companies. 
+
+Within a year, I've grown a team of 20 young data scientists as well as hosted 2 data science conference that welcame 146 attendees (full-day event), 615 live viewers (4 online workshops across 2 days), and nearly 20 guest speakers from major tech companies like Apple, Microsoft, Google, Airbnb, Salesforce, Etsy, VinBrain, etc.
+
+
 Click the blue button below to hear my story!
 <br>
 [<img align="center" src="images/leadership2.gif" height="100" />](sections/dsinbrief.md)
