@@ -1,4 +1,4 @@
-## Community Projects
+## Community Project
 
 ---
 **Data Science in Brief (@DSinbrief Facebook Page & Group)**
