@@ -8,7 +8,7 @@ Graduating soon, I aspire to turn ideas into actionable solutions and unlock new
 
 Check out my portfolio by clicking on the red button below! <br>
 
-[<img align="center" src="images/portfolio_center.gif" height="100" />](sections/portfolio.md)
+[<img align="center" src="images/portfolio_center.gif"/>](sections/portfolio.md)
 <br>
 
 <center><img src="images/leader.gif"/></center>
@@ -20,7 +20,7 @@ Within a year, I've grown a team of 20 young data scientists as well as hosted 2
 
 Click the blue button below to hear my story!
 <br>
-[<img align="center" src="images/leadership_center.gif" height="100" />](sections/dsinbrief.md)
+[<img align="center" src="images/leadership_center.gif"/>](sections/dsinbrief.md)
 
 
 ---
