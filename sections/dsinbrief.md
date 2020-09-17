@@ -1,6 +1,6 @@
 ## Community Project
 
-**Data Science in Brief (@DSinbrief Facebook Page & Group)** <br>
+**Data Science in Brief** (Non-Profit Organization - Learning Community) <br>
 *Founder & Executive Director* <br>
 
 Data Science in Brief [(@DSinbrief)](https://www.facebook.com/DSinbrief/), is a non-profit organization, a learning community that aims at 1) sharing knowledge to inspire young learners and to keep experienced scientists updated with state-of-the-art practices & applications; and 2) connecting young **Data Science enthusiasts – learners – practitioners** with leading experts in the field for learning and career opportunities.
