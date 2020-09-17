@@ -12,6 +12,7 @@
 <br>
 Models: <b>LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes</b>.
 </div>
+<br>
 <center><img src="/images/bertproject.gif"/></center>
   
 ---
