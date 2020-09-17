@@ -14,7 +14,7 @@ Data Science in Brief [(@DSinbrief)](https://www.facebook.com/DSinbrief/), is a 
 <center><img src="/images/milestone.png"/></center> <br>
 
 **Founder's Story** <br>
-[Image] <br>
+<center><img src="/images/quote.png"/></center> <br>
 I like the 3rd saying because unlike the others, it shows a proactive mentality. WE should not be reacting with the changes around us - but we are proactively making the change we want to see in our life and our community.
 
 This is my mentality when founding DSinbrief.
