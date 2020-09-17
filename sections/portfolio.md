@@ -7,24 +7,24 @@
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/psychiatric-readmission-prediction/tree/master/model-training)
 
-<div> Rapid psychiatric readmissions present a burden for both the patients as well as the hospitals. Due to the difficulties in assessing mental health status and complications inherent to mental illnesses, premature discharges as well as rapid decay of mental status after discharge is an issue many psychiatric facilities faces. We aim to create a BERT-based model that can assist clinicians in identifying patients as risk of psychiatric readmission upon discharge as well as extract abstract relationships from discharge summaries. Furthermore, as an attempt to understand the level of representation learning achieved by BERT, we visualized the attention (or connection) between two word tokens within BERT embeddings and were surprised to see that these connections actually make sense.
+<div> Rapid psychiatric readmissions present a burden for both the patients as well as the hospitals. Due to the difficulties in assessing mental health status and complications inherent to mental illnesses, premature discharges as well as rapid decay of mental status after discharge is an issue many psychiatric facilities faces. We aim to create a <b>BERT-based model that can assist clinicians in identifying patients as risk of psychiatric readmission </b> upon discharge as well as extract abstract relationships from discharge summaries. Furthermore, as an attempt to understand the level of representation learning achieved by BERT, we visualized the attention (or connection) between two word tokens within BERT embeddings and were surprised to see that these connections actually make sense.
 <br>
-Models: LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes.
+<br>
+Models: <b>LSTM with GloVe embedding, BERT (base) and BERT pre-trained on discharge notes</b>.
 </div>
-<center><img src="/images/bert.gif"/></center>
+<center><img src="/images/bertproject.gif"/></center>
   
 ---
-  
 [**Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?**](https://github.com/Emmyphung/Vegas_foodies)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/models_vegas_final.ipynb)
 [![Recommender System](https://img.shields.io/badge/Jupyter-Recommender_System-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/vegas_recommender_system.ipynb)
 
-<div> The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. 
+<div> The goals of this data mining project is to <b>1/ redefine success on Yelp</b> and <b>2/ identify key attributes that are associated with a successful Yelp profile using feature importance</b>. Our findings can help restaurants improve their Yelp profile to become more appealing to users.
 <br>
 Our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile.
 <br>
-Models: Decision Tree, Random Forest, and Logistic Regression.
+Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 
 </div>
 <center><img src="/images/yelp_project.png"/></center> 
@@ -39,7 +39,7 @@ Models: Decision Tree, Random Forest, and Logistic Regression.
 <br>
 Some interesting findings: 1) Overall, stocks within the FAANG companies are closely correlated; 2) Facebook and Google stocks were the most volatile in 2018, the year when Facebook had its infamous scandal with Cambridge Analytica; 3) Several tech stocks rocketed after Trump's elecion in 2017.<br>
 <br>
-Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model.
+Models: <b>Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integrated with moving-average) model</b>.
 </div>
 <center><img src="/images/FB_stock.png"/></center> 
   
@@ -49,11 +49,11 @@ Models: Auto-regressive (AR), Moving average (MA), ARIMA (Autoregression integra
 [![EDA](https://img.shields.io/badge/Jupyter-Stock_analysis_with_interative_charts-blue?logo=Jupyter)](https://github.com/Emmyphung/car_models/blob/master/car_EDA.ipynb)
 [![Models](https://img.shields.io/badge/Jupyter-Stock_prediction-blue?logo=Jupyter)](https://github.com/Emmyphung/car_models/blob/master/car_modelling.ipynb)
 
-<div> This research project examined the quality vs. fuel-efficiency trade-offs between low-end and high-end car models. I first consolidated a cross-sectional dataset of 10,000+ observations (2005–2014) and 22 variables from 3 sources. I then developed a Double-Log Regression model to estimate the average miles-per-gallon of an automobile model based on its design features and real market price. 
+<div> This research project examined the <b>quality vs. fuel-efficiency trade-offs between low-end and high-end car models</b>. I first consolidated a cross-sectional dataset of 10,000+ observations (2005–2014) and 22 variables from 3 sources. I then developed a Double-Log Regression model to estimate the average miles-per-gallon of an automobile model based on its design features and real market price. 
 For feature engineering, I conducted Pearson’s correlation test to detect and reduce multi-collinearity problem; used year-fixed effects to avoid serial correlation. 
 <br>
 <br>
-Models: Linear Regression, Lin-Log and Double-Log models.<br>
+Models: <b>Linear Regression, Lin-Log and Double-Log models</b>.<br>
 Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
 </div>
@@ -65,7 +65,7 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
 
-<div> This notebook will compare the performance of two NLP techniques, Count Vectorizor and TF-IDF Vectorizer, and two classification models, Logistic Regression and Bernoulli Naive Bayes in sentiment analysis. I'll give detailed explanation on which model performs better and why.
+<div> This notebook will compare the performance of two NLP techniques, <b>Count Vectorizor and TF-IDF Vectorizer</b>, and two classification models,  <b>Logistic Regression and Bernoulli Naive Bayes in sentiment analysis</b>. I'll give detailed explanation on which model performs better and why.
 </div>
 <center><img src="/images/Sentiment_analysis.png"/></center> 
 <center><img src="/images/Sentiment_analysis_math3.png"/></center> 
