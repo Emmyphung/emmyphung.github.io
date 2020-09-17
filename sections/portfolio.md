@@ -27,7 +27,7 @@ Our methodology defines “success” as a binary variable through an explorator
 Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 
 </div>
-<center><img src="/images/yelp_project.png"/></center> 
+<center><img src="/images/yelp_project.gif"/></center> 
 
 ---
 [**Effects of US Presidential Elections on the stock market: a close look into the Tech sector**](https://github.com/Emmyphung/FAANG_stockprices)
