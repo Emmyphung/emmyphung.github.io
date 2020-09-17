@@ -22,4 +22,5 @@ Click the blue button below to hear my story!
 <br>
 [<img align="center" src="images/leadership2.gif" height="100" />](sections/dsinbrief.md)
 
+
 ---
