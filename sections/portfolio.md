@@ -32,7 +32,7 @@ Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 <center><img src="/images/yelp_project.gif"/></center> 
 
 ---
-<b>Goodreads Book Recommender System in Spark </b>
+[**Goodreads Book Recommender System in Spark**](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 <br>
 <div> Leveraging the power of Spark in processing big data, this project aims to <b>build a comprehensive book recommender system that could infer readers’ preferences from their reading history on Goodreads.</b>
   Instead of taking a non-parametric approach which only takes into account the distance metrics between two users or two items, I built a collaborative filtering recommender system, which utilizes a user-item association matrix and can be described by a small set of latent factors. Collaborative filtering extracts information about users and items based on their interactions. For example, based on one user's feedback to certain items, the model will recommend books that similar users might like <b>(user-based)</b> or recommend similar items that the first user might be interested in <b>(item-based)</b>. To this goal, I used <b>Alternating Least Squares algorithm (ALS) </b>, which factorizes the
