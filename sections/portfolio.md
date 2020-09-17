@@ -73,7 +73,6 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <center><img src="/images/Car_model_corrplot.png"/></center> 
 
 ---
-
 [**Sentiment Analysis on Movie Reviews: Logistic Regression vs. Naive Bayes Bernoulli**](https://github.com/Emmyphung/Sentiment-Analysis)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20-%20NLP%20and%20Logistic%20Regression.ipynb)
@@ -97,7 +96,6 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <br>
 
 ---
-
 [**Projected growth of Neurendocrine cells using Matlab**](https://github.com/Emmyphung/Neurendocrine-cells) <br>
 
 [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Emmyphung/Neurendocrine-cells/blob/master/Project%20Write-up_My%20Phung.pdf)
