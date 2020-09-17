@@ -7,7 +7,7 @@ I love working in teams, tackling new data challenges as well as seeking origina
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 Check out my portfolio by clicking on the red button below! <br>
 
-[<img src="images/portfolio2.gif" height="100" />](sections/portfolio.md)
+[<img align="center" src="images/portfolio2.gif" height="100" />](sections/portfolio.md)
 <br>
 
 <center><img src="images/leader.gif"/></center>
@@ -15,6 +15,6 @@ Check out my portfolio by clicking on the red button below! <br>
 I also have a passion for knowledge sharing and community building. With a hope to share my learning journey in Data Science with others and support the VN DS community, I have founded and am managing **Data Science in Brief**, a science page and an online community that connects DS enthusiasts, learners and practitioners. DSinbrief is initiating an effort in connecting and strengthening the DS community in VN, which has remained a challenge to current institutes, training agencies and even big companies. Within a year, I've grown a team of 20 young data scientists as well as hosted 2 data science conference that welcame 146 attendees (full-day event), 615 live viewers (4 online workshops across 2 days), and nearly 20 guest speakers from major tech companies like Apple, Microsoft, Google, Airbnb, Salesforce, Etsy, VinBrain, etc.
 Click the blue button below to hear my story!
 <br>
-[<img src="images/leadership2.gif" height="100" />](sections/dsinbrief.md)
+[<img align="center" src="images/leadership2.gif" height="100" />](sections/dsinbrief.md)
 
 ---
