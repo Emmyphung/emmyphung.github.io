@@ -107,5 +107,3 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 ---
 
 [<img align="center" src="/images/leadership_center.gif"/>](/sections/dsinbrief.md)
-
----
