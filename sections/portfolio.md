@@ -32,6 +32,16 @@ Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 <center><img src="/images/yelp_project.gif"/></center> 
 
 ---
+<b>Goodreads Book Recommender System in Spark </b>
+<br>
+<div> Leveraging the power of Spark in processing big data, this project aims to <b>build a comprehensive book recommender system that could infer readers’ preferences from their reading history on Goodreads.</b>
+Instead of taking a non-parametric approach which only takes into account the distance metrics between two users or two items, I built a collaborative filtering recommender system, which utilizes a user-item association matrix and can be described by a small set of latent factors. Collaborative filtering extracts information about users and items based on their interactions. For example, based on one user's feedback to certain items, the model will recommend books that similar users might like <b>(user-based)</b> or recommend similar items that the first user might be interested in <b>(item-based)</b>. To this goal, I used alternating least squares algorithm (ALS), which factorizes the
+user-item matrix into the product of two rectangular matrices that have lower dimensions. In particular, ALS model finds k-dimensional feature vectors for each user-item, also known as k-latent factors, such that the dot product of feature vectors approximates the user’s rating for that item. 
+
+For evaluation, I used two primary evaluation metrics: <b>precision at k & normalized discounted cumulative gain (NDCG)</b>. Precision at k measures the fraction of recommended items that are irrelevant and NDCG takes into account ranking of the recommendations. I also used <b>UMAP and t-SNE</b> to visualize how items are distributed in the learned space.
+</div>
+<center><img src="/images/goodreads.gif"/></center>
+---
 [**Effects of US Presidential Elections on the stock market: a close look into the Tech sector**](https://github.com/Emmyphung/FAANG_stockprices)
 
 [![Time series analysis](https://img.shields.io/badge/Jupyter-Stock_analysis_with_interative_charts-blue?logo=Jupyter)](https://github.com/Emmyphung/FAANG_stockprices/blob/master/EDA_StockAnalysis.html)
