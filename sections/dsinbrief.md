@@ -33,6 +33,7 @@ As a **community**, we help DS enthusiasts navigate through their career choices
 
 <center><img src="/images/eventhl.png"/></center> <br>
 ---
+
 [<img align="center" src="/images/portfolio_center.gif"/>](https://emmyphung.github.io/sections/portfolio.html)
 
 
