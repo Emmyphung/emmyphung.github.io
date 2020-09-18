@@ -8,8 +8,8 @@ Graduating soon, I aspire to turn ideas into actionable solutions and unlock new
 
 Check out my portfolio by clicking on the red button below! <br>
 
-[<img align="center" src="images/portfolio3.gif" height="200"/>](sections/portfolio.md) 
-<a href="emmyphung.github.io/pdf/Emmy Phung_Resume091720.pdf" class="image fit"><img align="center" src="images/resume.gif" height="200"/></a>
+[<img align="center" src="images/portfolio3.gif" height="100"/>](sections/portfolio.md) 
+<a href="pdf/Emmy Phung_Resume091720.pdf" class="image fit"><img align="center" src="images/resume.gif" height="100"/></a>
 <br>
 
 <center><img src="images/leader.gif"/></center>
