@@ -7,9 +7,10 @@ I love working in teams, tackling new data challenges as well as seeking origina
 Graduating soon, I aspire to turn ideas into actionable solutions and unlock new potentials from data with my solid programming skills and theoretical knowledge in data science. 
 
 Check out my portfolio by clicking on the red button below! <br>
-
-[<img align="center" src="images/portfolio3.gif" height="90"/>](sections/portfolio.md) 
-<a href="emmyphung.github.io/pdf/Emmy Phung_Resume_091720.pdf" class="image fit" target="_blank"><img align="center" src="images/resume.gif" height="90"/></a>
+<p>
+  [<img align="center" src="images/portfolio3.gif" height="90"/>](sections/portfolio.md) 
+  <a href="emmyphung.github.io/pdf/Emmy Phung_Resume_091720.pdf" class="image fit" target="_blank"><img align="center" src="images/resume.gif" height="90"/></a>
+</p>
 <br>
 
 <center><img src="images/leader.gif"/></center>
