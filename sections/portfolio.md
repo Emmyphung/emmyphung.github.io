@@ -1,7 +1,7 @@
 
 ## Portfolio
 
----
+
 [**Predicting Psychiatric Readmission Rate Based on Clinical Notes**](https://github.com/Emmyphung/psychiatric-readmission-prediction)
 
 [![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/psychiatric-readmission-prediction/tree/master/model-training)
@@ -36,10 +36,11 @@ Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 [![Data](https://img.shields.io/badge/Jupyter-Data-blue?logo=Jupyter)](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
 <div> Leveraging the power of Spark in processing big data, this project aims to <b>build a comprehensive book recommender system that could infer readers’ preferences from their reading history on Goodreads.</b>
-I built a collaborative filtering recommender system, which utilizes a user-item association matrix and can be described by a small set of latent factors. For example, based on one user's feedback to certain items, the model will recommend books that similar users might like <b>(user-based)</b> or recommend similar items that the first user might be interested in <b>(item-based)</b>. To this goal, I used <b>Alternating Least Squares algorithm (ALS) </b>, which factorizes the user-item matrix into the product of two rectangular matrices of lower dimensions. In particular, ALS model finds k-dimensional feature vectors for each user-item, also known as k-latent factors, such that the dot product of feature vectors approximates the user’s rating for that item. 
-
-For evaluation, I used two primary evaluation metrics: <b>precision at k & normalized discounted cumulative gain (NDCG)</b>. I also used <b>UMAP and t-SNE</b> to visualize how items are distributed in the learned space.
+I built a collaborative filtering recommender system, which utilizes a user-item association matrix and can be described by a small set of latent factors. For example, based on one user's feedback to certain items, the model will recommend books that similar users might like <b>(user-based)</b> or recommend similar items that the first user might be interested in <b>(item-based)</b>.
+<br>
+To this goal, I used <b>Alternating Least Squares algorithm (ALS) </b>, which factorizes the user-item matrix into the product of two rectangular matrices of lower dimensions. In particular, ALS model finds k-dimensional feature vectors for each user-item, also known as k-latent factors, such that the dot product of feature vectors approximates the user’s rating for that item. For evaluation, I used two primary evaluation metrics: <b>precision at k & normalized discounted cumulative gain (NDCG)</b>. I also used <b>UMAP and t-SNE</b> to visualize how items are distributed in the learned space.
 </div>
+<br>
 <center><img src="/images/goodreads.gif"/></center>
 
 ---
@@ -103,7 +104,5 @@ Results: Final R_squared: 0.7984 | Final MSE: 0.0024.
 <div style="text-align: justify">The project aims at tracking the three phase transformation of neuroendocrine cells specific to the human colon. A stem cell transforms into a progenitor cell and finally a mature cell through symmetric and asymmetric cell division. Symmetric cell division, also known as self-renewal, occurs when a stem cell divides symmetrically into two identical stem cells. Asymmetric cell division characterizes the maturation process when a stem cell divides into a stem cell and a progenitor cell, or a progenitor cell divides into a progenitor cell and a mature cell. In each phase, cells also experience apoptosis. meaning cell death. With an aim to capture this phenomenon, I want to build a model that track the number of cells in each phase, stem cells, progenitor cells and mature cells.
 </div>
 <center><img src="/images/Neucell.png"/></center>
-
----
 
 [<img align="center" src="/images/leadership_center.gif"/>](https://emmyphung.github.io/sections/dsinbrief.html)
