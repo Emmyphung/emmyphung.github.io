@@ -13,7 +13,7 @@ Check out my portfolio by clicking on the red button below! <br>
 
 <center><img src="images/leader.gif"/></center>
 
-I also have a passion for knowledge sharing and community building. With a hope to share my learning journey in Data Science with others and support the VN DS community, I have founded and am managing **Data Science in Brief**, a science page and an online community that connects DS enthusiasts, learners and practitioners. DSinbrief is initiating an effort in connecting and strengthening the data science community in Vietnam, which has remained a challenge to current institutes, training agencies and even big companies. 
+I also have a passion for knowledge sharing and community building. With a hope to share my learning journey in Data Science with others and support the data science community in Vietnam, I have founded and am managing **Data Science in Brief** (DSinbrief), a science page and an online community that connects DS enthusiasts, learners and practitioners. DSinbrief is initiating an effort in connecting and strengthening the data science community in Vietnam, which has remained a challenge to current institutes, training agencies and even big companies. 
 
 Within a year, I've grown a team of 20 young data scientists as well as hosted 2 data science conference that welcomed 146 attendees (full-day event), 615 live viewers (4 online workshops across 2 days), and nearly 20 guest speakers from major tech companies like Apple, Microsoft, Google, Airbnb, Salesforce, Etsy, VinBrain, etc.
 
@@ -21,6 +21,4 @@ Within a year, I've grown a team of 20 young data scientists as well as hosted 2
 Click the blue button below to hear my story!
 <br>
 [<img align="center" src="images/leadership_center.gif"/>](sections/dsinbrief.md)
-
----
 
