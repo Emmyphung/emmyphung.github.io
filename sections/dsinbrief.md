@@ -35,7 +35,5 @@ As a **community**, we help data science enthusiasts navigate through their care
 
 <center><img src="/images/eventhl.png"/></center> <br>
 
----
-
 [<img align="center" src="/images/portfolio_center.gif"/>](https://emmyphung.github.io/sections/portfolio.html)
 
