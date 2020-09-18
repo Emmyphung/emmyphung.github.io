@@ -22,3 +22,4 @@ Within a year, I've grown a team of 20 young data scientists as well as hosted 2
 Click the blue button below to hear my story!
 <br>
 [<img align="center" src="images/leadership_center.gif"/>](sections/dsinbrief.md)
+
