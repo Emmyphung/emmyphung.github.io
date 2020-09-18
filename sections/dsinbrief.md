@@ -19,7 +19,7 @@ Data Science in Brief [(@DSinbrief)](https://www.facebook.com/DSinbrief/), is a 
 <center><img src="/images/quote.png"/></center> <br>
 I like the 3rd saying because unlike the others, it shows a proactive mentality. We should not be reacting with the changes around us - but we are proactively making the change we want to see in our life and our community.
 
-This is my mentality when founding DSinbrief.
+This is my mentality when founding Data Science in Brief.
 
 As an Economics & Mathematics student pivoting into Data Science, I had been looking for a community to share knowledge, learn and grow with others. The desire to be part of a young community of data science learners and the fact that I had not found one motivates me to create one. As soon as I had this idea, I have posted about it on other online science communities to ask for feedback and one of them was *Data Science & Big Data Vietnam*. I was surprised to receive so much positive feedback and support from my peers, strangers and even professionals in the field within just 20 hours.
 
