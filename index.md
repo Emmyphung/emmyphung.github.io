@@ -8,11 +8,12 @@ Graduating soon, I aspire to turn ideas into actionable solutions and unlock new
 
 Check out my portfolio by clicking on the red button below! <br>
 
-[<img align="center" src="images/portfolio_center.gif"/>](sections/portfolio.md)
+[<img align="center" src="images/portfolio3.gif" height="200"/>](sections/portfolio.md) 
+<a href="emmyphung.github.io/pdf/Emmy Phung_Resume091720.pdf" target="_blank"><img align="center" src="images/resume.gif" height="200"/></a>
 <br>
 
 <center><img src="images/leader.gif"/></center>
-
+<br>
 I also have a passion for knowledge sharing and community building. With a hope to share my learning journey with others and support the data science community in Vietnam, I have founded and am managing **Data Science in Brief** (DSinbrief), a science page and an online community that connects data science enthusiasts, learners and practitioners. DSinbrief is initiating an effort in connecting and strengthening the data science community in Vietnam, which has remained a challenge to current institutes, training agencies and even big companies. 
 
 Within a year, I've grown a team of 20 young data scientists as well as hosted 2 data science conference that welcomed 146 attendees (full-day event), 615 live viewers (4 online workshops across 2 days), and nearly 20 guest speakers from major tech companies like Apple, Microsoft, Google, Airbnb, Salesforce, Etsy, VinBrain, etc.
