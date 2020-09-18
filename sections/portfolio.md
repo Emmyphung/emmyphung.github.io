@@ -36,10 +36,11 @@ Models: <b>Decision Tree, Random Forest, and Logistic Regression</b>.
 [![Data](https://img.shields.io/badge/Jupyter-Data-blue?logo=Jupyter)](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
 <div> Leveraging the power of Spark in processing big data, this project aims to <b>build a comprehensive book recommender system that could infer readers’ preferences from their reading history on Goodreads.</b>
-I built a collaborative filtering recommender system, which utilizes a user-item association matrix and can be described by a small set of latent factors. For example, based on one user's feedback to certain items, the model will recommend books that similar users might like <b>(user-based)</b> or recommend similar items that the first user might be interested in <b>(item-based)</b>. To this goal, I used <b>Alternating Least Squares algorithm (ALS) </b>, which factorizes the user-item matrix into the product of two rectangular matrices of lower dimensions. In particular, ALS model finds k-dimensional feature vectors for each user-item, also known as k-latent factors, such that the dot product of feature vectors approximates the user’s rating for that item. 
-
-For evaluation, I used two primary evaluation metrics: <b>precision at k & normalized discounted cumulative gain (NDCG)</b>. I also used <b>UMAP and t-SNE</b> to visualize how items are distributed in the learned space.
+I built a collaborative filtering recommender system, which utilizes a user-item association matrix and can be described by a small set of latent factors. For example, based on one user's feedback to certain items, the model will recommend books that similar users might like <b>(user-based)</b> or recommend similar items that the first user might be interested in <b>(item-based)</b>.
+<br>
+To this goal, I used <b>Alternating Least Squares algorithm (ALS) </b>, which factorizes the user-item matrix into the product of two rectangular matrices of lower dimensions. In particular, ALS model finds k-dimensional feature vectors for each user-item, also known as k-latent factors, such that the dot product of feature vectors approximates the user’s rating for that item. For evaluation, I used two primary evaluation metrics: <b>precision at k & normalized discounted cumulative gain (NDCG)</b>. I also used <b>UMAP and t-SNE</b> to visualize how items are distributed in the learned space.
 </div>
+<br>
 <center><img src="/images/goodreads.gif"/></center>
 
 ---
